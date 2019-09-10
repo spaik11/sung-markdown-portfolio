@@ -2,6 +2,8 @@
 ### Introduction
 Hi everyone, I'm new to web development and I'm currently a student at Code Immersives in NYC. I listed my LinkedIn page below. I hope you enjoy!
 
+![Alt Text](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
+
 [Sung's LinkedIn](https://www.linkedin.com/in/sungypaik/)
 ---
 ### Experience
