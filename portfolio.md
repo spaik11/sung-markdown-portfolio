@@ -1,7 +1,8 @@
 # **Sung Paik**
 ### Introduction
-Hi everyone, I'm new to web development and I'm currently a student at Code Immersives in NYC. 
+Hi everyone, I'm new to web development and I'm currently a student at Code Immersives in NYC. I listed my LinkedIn page below. I hope you enjoy!
 
+[Sung's LinkedIn](https://www.linkedin.com/in/sungypaik/)
 ---
 ### Experience
 * **JPMorgan Chase & Co**, New York, NY 
@@ -9,7 +10,7 @@ Hi everyone, I'm new to web development and I'm currently a student at Code Imme
 * **Drexel Hamilton**, New York, NY
   * Equity Research Associate, Global Energy Mar 2016 - Dec 2016
 * **United States Marine Corps**
-  * Operations, Sergeant Mar 2007 - Aug 2014
+  * Data Analyst, Sergeant Mar 2007 - Aug 2014
 ---
 ### Education
 * St. John's University, Queens, NY
